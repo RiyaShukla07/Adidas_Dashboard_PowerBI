@@ -6,11 +6,7 @@ dashboard converts sales data into actionable business insights for
 monitoring performance and supporting strategic decision-making.
 
 ## 📊 Dashboard Preview
-
-> Add the dashboard screenshot to the repository using the filename
-> `Adidas Dashboard Snapshot.png`.
-
-![Adidas Sales Analysis Dashboard](./Adidas%20Dashboard%20Snapshot.png)
+[🖼️ View Dashboard Snapshot](./Adidas%20Dashboard%20Snapshot.png)
 
 ------------------------------------------------------------------------
 
