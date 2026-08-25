@@ -5,13 +5,6 @@ performance across products, retailers, regions, states, and time. The
 dashboard converts sales data into actionable business insights for
 monitoring performance and supporting strategic decision-making.
 
-## 📊 Dashboard Preview
-
-> Add the dashboard screenshot to the repository using the filename
-> `Adidas Dashboard Snapshot.png`.
-
-![Adidas Sales Analysis Dashboard](./Adidas%20Dashboard%20Snapshot.png)
-
 ------------------------------------------------------------------------
 
 ## 🎯 Business Requirements
@@ -230,3 +223,4 @@ Adidas-Sales-Analysis/
 **Project:** Adidas Sales Analysis Dashboard\
 **Tool:** Microsoft Power BI\
 **Focus:** Sales Analytics, Business Intelligence & Data Visualization
+**Link:** https://github.com/RiyaShukla07/Adidas_Dashboard_PowerBI/blob/main/Adidas%20Dashboard%20Snapshot.png
