@@ -223,5 +223,4 @@ Adidas-Sales-Analysis/
 **Project:** Adidas Sales Analysis Dashboard\
 **Tool:** Microsoft Power BI\
 **Focus:** Sales Analytics, Business Intelligence & Data Visualization
-
 **Link:** https://github.com/RiyaShukla07/Adidas_Dashboard_PowerBI/blob/main/Adidas%20Dashboard%20Snapshot.png
